@@ -1,0 +1,20 @@
+D:\DataFeed\DataFeed\bin\Release\DataFeed.exe.config
+D:\DataFeed\DataFeed\bin\Release\DataFeed.exe
+D:\DataFeed\DataFeed\bin\Release\DataFeed.pdb
+D:\DataFeed\DataFeed\bin\Release\WinSCPnet.dll
+D:\DataFeed\DataFeed\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DataFeed\DataFeed\obj\x86\Release\DataFeed.exe
+D:\DataFeed\DataFeed\obj\x86\Release\DataFeed.pdb
+I:\My Demo\DataFeed\DataFeed\DataFeed\bin\Release\DataFeed.exe.config
+I:\My Demo\DataFeed\DataFeed\DataFeed\obj\x86\Release\DataFeed.exe
+I:\My Demo\DataFeed\DataFeed\DataFeed\obj\x86\Release\DataFeed.pdb
+I:\My Demo\DataFeed\DataFeed\DataFeed\bin\Release\DataFeed.exe
+I:\My Demo\DataFeed\DataFeed\DataFeed\bin\Release\DataFeed.pdb
+I:\My Demo\DataFeed\DataFeed\DataFeed\obj\x86\Release\DataFeed.csprojResolveAssemblyReference.cache
+E:\My Demo\DataFeed\DataFeed\DataFeed\bin\Release\DataFeed.exe.config
+E:\My Demo\DataFeed\DataFeed\DataFeed\bin\Release\DataFeed.exe
+E:\My Demo\DataFeed\DataFeed\DataFeed\bin\Release\DataFeed.pdb
+E:\My Demo\DataFeed\DataFeed\DataFeed\bin\Release\WinSCPnet.dll
+E:\My Demo\DataFeed\DataFeed\DataFeed\obj\x86\Release\ResolveAssemblyReference.cache
+E:\My Demo\DataFeed\DataFeed\DataFeed\obj\x86\Release\DataFeed.exe
+E:\My Demo\DataFeed\DataFeed\DataFeed\obj\x86\Release\DataFeed.pdb
